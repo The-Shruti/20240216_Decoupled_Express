@@ -1,0 +1,208 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "file System Collection",
+    "dateExported": "2024-02-19T06:07:15.394Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "992b6d86-eee4-4280-b5c8-774ac61faa77",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "get products",
+            "url": "http://localhost:5000/products",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-02-19T05:37:21.490Z",
+            "modified": "2024-02-19T05:37:35.295Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "2ba8d18d-8f16-439e-a5e5-87d46f151bb4",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "get products by id ",
+            "url": "http://localhost:5000/products/6",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-02-19T05:38:16.938Z",
+            "modified": "2024-02-19T05:38:33.670Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "c5bd0a72-e0e0-4977-812e-2a103208197c",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "get Product by name",
+            "url": "http://localhost:5000/products/name/Product7",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-02-19T05:38:51.950Z",
+            "modified": "2024-02-19T05:39:06.212Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "83f14481-2d6e-45be-86b4-ee4922ee7692",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "Post Products",
+            "url": "http://localhost:5000/products",
+            "method": "POST",
+            "sortNum": 50000,
+            "created": "2024-02-19T05:40:04.230Z",
+            "modified": "2024-02-19T05:42:43.356Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"p_id\": 10, \n  \"p_name\": \"Product10\", \n  \"p_desc\": \"Food Products\", \n  \"p_price\": 40, \n  \"p_stock\" : 30, \n  \"p_image\" : \"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ\"\n  \n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "48c7c80c-4009-49a4-b5da-b71492f362f9",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "put Products by id ",
+            "url": "http://localhost:5000/products/7",
+            "method": "PUT",
+            "sortNum": 60000,
+            "created": "2024-02-19T05:43:13.599Z",
+            "modified": "2024-02-19T05:45:37.726Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"p_name\": \"Product7\",\n    \"p_desc\": \"Edible Oil Products\",\n    \"p_price\": 150,\n    \"p_stock\": 15,\n    \"p_image\": \"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "2f4208ee-3ae8-48c3-b668-cf2e2e93c3fd",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "delete Product by id ",
+            "url": "http://localhost:5000/products/10",
+            "method": "DELETE",
+            "sortNum": 70000,
+            "created": "2024-02-19T05:46:16.395Z",
+            "modified": "2024-02-19T05:46:33.792Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "9a0858fb-f5ba-4a0f-90b6-cfc6a2f668f7",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "post checkout ",
+            "url": "http://localhost:5000/checkout",
+            "method": "POST",
+            "sortNum": 80000,
+            "created": "2024-02-19T05:46:59.969Z",
+            "modified": "2024-02-19T05:47:54.992Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"p_id\": 1,\n  \"quantity\": 2\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "f38a08c9-362a-450d-9ed7-949706774d01",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "get checkout ",
+            "url": "http://localhost:5000/checkout",
+            "method": "GET",
+            "sortNum": 90000,
+            "created": "2024-02-19T05:48:16.291Z",
+            "modified": "2024-02-19T05:48:22.391Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "1604447a-a3b6-4158-813e-9354a12a4be7",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "delete checkout ",
+            "url": "http://localhost:5000/checkout/3",
+            "method": "DELETE",
+            "sortNum": 100000,
+            "created": "2024-02-19T05:48:39.228Z",
+            "modified": "2024-02-19T05:49:00.953Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "aa247d18-0eeb-4b43-9a30-fdd4d62f615b",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "Post place-order ",
+            "url": "http://localhost:5000/place-order",
+            "method": "POST",
+            "sortNum": 110000,
+            "created": "2024-02-19T05:49:24.070Z",
+            "modified": "2024-02-19T05:50:46.469Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"o_id\": 3, \n  \"o_date\": \"20240223\", \n  \"o_address\": \"Civil Lines Nagpur\", \n  \"o_status\": \"Pending\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "e2e50d62-a294-406d-87a0-3670f5bca07c",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "Get Orders",
+            "url": "http://localhost:5000/orders",
+            "method": "GET",
+            "sortNum": 120000,
+            "created": "2024-02-19T05:51:11.315Z",
+            "modified": "2024-02-19T05:53:42.326Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "259ae1bb-ce5e-4b40-8a04-41b7c40e8860",
+            "colId": "3ca36687-e74f-4bd5-af94-2a518191e76f",
+            "containerId": "",
+            "name": "Put order Status ",
+            "url": "http://localhost:5000/orders/status?id=1",
+            "method": "PUT",
+            "sortNum": 130000,
+            "created": "2024-02-19T05:54:07.401Z",
+            "modified": "2024-02-19T05:58:32.588Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1",
+                    "isPath": false
+                }
+            ],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"o_status\" : \"Delievered\"\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
