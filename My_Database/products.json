@@ -1,0 +1,66 @@
+[
+  {
+    "p_id": 1,
+    "p_name": "Product1",
+    "p_desc": "Beauty Products",
+    "p_price": 100,
+    "p_stock": 11,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 3,
+    "p_desc": "Sun Cream",
+    "p_name": "Product3",
+    "p_price": 180,
+    "p_stock": 14,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 5,
+    "p_name": "Product5",
+    "p_desc": "Consumer Products",
+    "p_price": 200,
+    "p_stock": 52,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 6,
+    "p_name": "Product6",
+    "p_desc": "Harmful Products",
+    "p_price": 180,
+    "p_stock": 10,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 7,
+    "p_name": "Product7",
+    "p_desc": "Edible Oil Products",
+    "p_price": 100,
+    "p_stock": 15,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 8,
+    "p_name": "Product8",
+    "p_desc": "General Product",
+    "p_price": 40,
+    "p_stock": 50,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 8,
+    "p_name": "Product8",
+    "p_desc": "Genera; Product",
+    "p_price": 40,
+    "p_stock": 50,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  },
+  {
+    "p_id": 10,
+    "p_name": "Product10",
+    "p_desc": "Food Products",
+    "p_price": 40,
+    "p_stock": 30,
+    "p_image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmakini-group.com%2Fwp-content%2Fuploads%2F2018%2F05%2FMakini-Group-Consumer-Products-1024x284.png&tbnid=qs_F_wEtBMFr3M&vet=12ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ..i&imgrefurl=https%3A%2F%2Fmakini-group.com%2Findustries%2Fconsumer-products%2F&docid=_RNl0XwTrjRL5M&w=1024&h=284&q=products&ved=2ahUKEwjqj7mXq7KEAxW0smMGHS_vDyYQMygMegUIARCGAQ"
+  }
+]
